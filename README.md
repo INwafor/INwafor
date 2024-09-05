@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @INwafor
-- 👀 I’m interested in marine ecology and conservation
+- 👀 I’m interested in aquatic ecology and conservation
 - 🌱 I’m currently learning how to conduct analysis and infer data using R
 - 💞️ I’m studying Environmental Governance and Ecology at the University of Guelph
 - 📫 How to reach me... @IjeomaNwafor3 on twitter!
