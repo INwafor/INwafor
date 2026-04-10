@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @INwafor
-- 👀 I’m interested in aquatic ecology and conservation
-- 🌱 I’m currently learning how to conduct analysis and infer data using R
-- 💞️ I’m studying Environmental Governance and Ecology at the University of Guelph
+- 👀 I'm a recent graduate from the University of Guelph in Environmental Governance and Ecology.
+- 🌱 I completed my undergraduated thesis on the thermal tolerance of green alga under nutrient limitation.
+- ⛴️ I am interested in invetsigating how warming climates impact Arctic ecosystems and the communities that live off them.
 - 📫 How to reach me... @IjeomaNwafor3 on twitter!
 
 <!---
